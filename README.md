@@ -30,7 +30,6 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/athira-sajeev441
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/athira-sajeev441)](https://linkedin.com/in/athira-sajeev441)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:athiras441@gmail.com)](mailto:athiras441@gmail.com)
 
-)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:athiras441@gmail.com)](mailto:your.email@gmail.com)
