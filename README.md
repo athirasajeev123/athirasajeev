@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **MAANG Interview Prep**
 - 💬 Ask me about **React, JavaScript, GitHub, HTML/CSS**
 - 📫 How to reach me: **athiras441@gmail.com**
-#- 🌐 Portfolio: [My Portfolio](https://your-portfolio-link.com)
+
 
 ---
 
@@ -30,5 +30,7 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/athira-sajeev441
+
+)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:athiras441@gmail.com)](mailto:your.email@gmail.com)
